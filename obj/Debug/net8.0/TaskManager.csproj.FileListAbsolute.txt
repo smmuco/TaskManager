@@ -1,0 +1,17 @@
+C:\Users\90538\source\repos\TaskManager\bin\Debug\net8.0\TaskManager.exe
+C:\Users\90538\source\repos\TaskManager\bin\Debug\net8.0\TaskManager.deps.json
+C:\Users\90538\source\repos\TaskManager\bin\Debug\net8.0\TaskManager.runtimeconfig.json
+C:\Users\90538\source\repos\TaskManager\bin\Debug\net8.0\TaskManager.dll
+C:\Users\90538\source\repos\TaskManager\bin\Debug\net8.0\TaskManager.pdb
+C:\Users\90538\source\repos\TaskManager\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\90538\source\repos\TaskManager\obj\Debug\net8.0\TaskManager.csproj.AssemblyReference.cache
+C:\Users\90538\source\repos\TaskManager\obj\Debug\net8.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90538\source\repos\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfoInputs.cache
+C:\Users\90538\source\repos\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfo.cs
+C:\Users\90538\source\repos\TaskManager\obj\Debug\net8.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\90538\source\repos\TaskManager\obj\Debug\net8.0\TaskMana.F3FB485A.Up2Date
+C:\Users\90538\source\repos\TaskManager\obj\Debug\net8.0\TaskManager.dll
+C:\Users\90538\source\repos\TaskManager\obj\Debug\net8.0\refint\TaskManager.dll
+C:\Users\90538\source\repos\TaskManager\obj\Debug\net8.0\TaskManager.pdb
+C:\Users\90538\source\repos\TaskManager\obj\Debug\net8.0\TaskManager.genruntimeconfig.cache
+C:\Users\90538\source\repos\TaskManager\obj\Debug\net8.0\ref\TaskManager.dll
